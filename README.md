@@ -1,31 +1,30 @@
 ![cover](https://user-images.githubusercontent.com/52650290/164152607-6da6cff8-0c95-468d-ab39-80c775b23c2a.png)
 
 
-<h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/muhammad-samiullah-2002/" target="_blank"> Muhammad Samiullah </a> </h1>
+<h1 align="center" >Hello, I'm <a href="https://www.linkedin.com/in/muhammad-anas-1375082a0/" target="_blank"> Muhammad Anas </a> </h1>
 <img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194537501-d7d77a8f-1f6f-4e95-a6ee-b2d1439dd729.gif" >
  
 ### About Me,
 
- My name is <b>Muhammad Samiullah</b>. The Cloud Engineer with a passion for designing, building, and maintaining highly scalable and secure cloud infrastructure. I leverage my web development background to automate deployments, optimize resources, and deliver cost-effective solutions.
+ My name is <b>Muhammad Anas</b>. A Data Analyst with a passion for transforming raw data into actionable insights. I leverage my expertise in data analysis, machine learning, and statistical modeling to optimize processes, uncover patterns, and drive data-driven decision-making.
         
  
- <h3 align="center">  Cloud Engineer | Open Source Developer | Community Builder </h3>
+ <h3 align="center">  Data Analyst | Machine Learning Enthusiast | Problem Solver </h3>
  
  <div>
  <h1>Let's Learn, Grow and Connect</h1>
 
-<a  href="https://www.linkedin.com/in/msamiullah-dev?wt.mc_id=studentamb_202028" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/samipak458?wt.mc_id=studentamb_202028" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
-<a href="mailto:samipak458@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-<a  href="https://github.com/samipak458?wt.mc_id=studentamb_202028"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+<a  href="https://www.linkedin.com/in/muhammad-anas-1375082a0/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sheikhanastauseef8@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<a  href="https://github.com/Sheikh-Anas-Tauseef"><img alt=" Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 
+<!---
 </div>
-
 <a href="https://mvp.microsoft.com/en-US/mvp/profile/22c07a7e-1849-47fa-9bd6-02b1a7359865"><img height="5%" width="20%" align="left" src="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png" ></a>
 <br><br><br>
- 
  <div align="center">
-
+ ---!>
+<!--- <a href="https://twitter.com/samipak458?wt.mc_id=studentamb_202028" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> ---!>
 
 <h1>🛠 About My Tech Stack</h1>
 
