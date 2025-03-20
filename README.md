@@ -21,30 +21,24 @@
 <!---
 </div>
 <a href="https://mvp.microsoft.com/en-US/mvp/profile/22c07a7e-1849-47fa-9bd6-02b1a7359865"><img height="5%" width="20%" align="left" src="MVP_Badge_Horizontal_Secondary_DarkBlue7694_RGB.png" ></a>
-<br><br><br>
+<br><br><br> ---!>
  <div align="center">
- ---!>
-<!--- <a href="https://twitter.com/samipak458?wt.mc_id=studentamb_202028" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a> ---!>
 
 <h1>🛠 About My Tech Stack</h1>
 
 <a href="https://jumpnet.enjinx.io/eth/asset/68c0000000000245/40"><img width="40%" align="right" src="https://user-images.githubusercontent.com/52650290/194544931-7ace475e-39f6-4b18-be93-69394a6c552f.jpg" ></a>
 
-   
-I'm a passionate cloud engineer with a background in web development. I love building and maintaining secure, scalable cloud infrastructure that empower applications. Currently, I'm working as a **Cloud Engineer at Atomic Computing**, where I leverage my coding skills and cloud knowledge to troubleshoot issues and ensure smooth operations.
+I'm a passionate **Data Analyst** with a strong foundation in data visualization and statistical analysis. I love transforming raw data into meaningful insights that drive informed decision-making. Currently, I specialize in analyzing complex datasets, optimizing processes, and building data-driven solutions to enhance business efficiency.  
 
-With **SAA-C03, CLF-C02, AZ-900 and AZ-104 certifications**, I've proven my dedication to mastering Azure technologies. This ensures I can effectively manage and resolve cloud-related issues, setting up a strong operational foundation.
+With expertise in **Python, SQL, and data visualization tools**, I specialize in analyzing large datasets, identifying trends, and transforming raw data into actionable insights. My strong foundation in **statistical analysis and data interpretation** allows me to optimize workflows and support data-driven decision-making, ensuring efficiency and accuracy in business operations.  
 
-I have contributed to the open-source community as an **Open Source Developer** at 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭. My expertise includes developing and enhancing Azure Static Web Apps projects and identifying and resolving bugs in **Microsoft Learn Modules**. I have earned the prestigious **Azure Hero Open Source** Badge, reflecting my commitment and achievements in the open source community.
+I am proficient in using tools like **Power BI, Tableau, and Excel** to create interactive dashboards and reports, enabling organizations to make informed decisions. My experience in **data cleaning, preprocessing, and exploratory data analysis** helps in uncovering hidden patterns and improving data quality.  
 
-I contributed in the **Student Ambassador Bug Bash** where I found **five bugs** in Microsoft Learn Azure Static Web Apps Documentation and **one bug** each in the Microsoft Learn C#, GitHub and Azure Cognitive module. I make Learn modules better by clearing the confusing part of docs which bridges the gap in existing Microsoft Learn doc and I also spot the error which is not defined in docs. By identifying these bugs, I make the UX better. 
+I am also an active **Kaggle contributor**, where I analyze datasets, build predictive models, and share insights with the global data science community. Engaging in Kaggle competitions has sharpened my problem-solving skills and deepened my understanding of real-world data challenges.  
 
-My tech journey began with a **Web Dev Summer Internship at Folio3**, where I gained hands-on experience in the Software Development Life Cycle (SDLC). I developed a platform using HTML, CSS, and JavaScript, which addressed challenges faced by underserved communities, earning me the 3rd Runner-Up Award for Best Project Implementation and Delivery.
+Beyond technical expertise, I am passionate about **community building and knowledge sharing**. I had the opportunity to volunteer in organizing **AWS Community Day Karachi** for the first time in the city. This experience allowed me to collaborate with industry experts, gain valuable insights into cloud and data technologies, and enhance my leadership and event management skills.  
 
-Beyond my technical work, I am passionate about community building. As the lead of the Microsoft Learn Student Community's citywide chapter, I organized successful events in collaboration with top tech companies, connecting students with practical knowledge and career opportunities in the tech industry. 
-
-I am also honored to be a recipient of the prestigious **Microsoft Most Valuable Professional Award**, which recognizes my consistent contributions to the tech community and my commitment to empowering others through knowledge sharing and innovation.
-
+I am committed to continuous learning and professional growth, staying updated with the latest trends in data science and analytics. My goal is to leverage data-driven insights to solve complex problems, drive innovation, and contribute meaningfully to the tech community.  
 
 > ### “It’s the possibility of having dream come true that makes life so interesting.”
 
